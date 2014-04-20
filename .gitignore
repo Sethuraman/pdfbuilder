@@ -1,0 +1,20 @@
+*.class
+bin/
+*.log
+*.log.*
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.exe
+.idea/
+*.iml
+*.eml
+build/
+sources/
+out/
+logs/
+.classpath
+.metadata/
